@@ -1,0 +1,270 @@
+[
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/fft.cpp",
+        "file_last_write": 1601671585.0,
+        "definitions": [
+            {
+                "usr": "c:@F@fft_arma#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fft_arma(const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/fft.cpp",
+                "line": 7,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@ifft_arma#&1$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "ifft_arma(const Rcpp::ComplexVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/fft.cpp",
+                "line": 19,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/fft.h",
+        "file_last_write": 1601654892.0,
+        "definitions": []
+    },
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/rcpparma_hello_world.cpp",
+        "file_last_write": 1601671071.0,
+        "definitions": [
+            {
+                "usr": "c:@F@rcpparma_hello_world#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_hello_world",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/rcpparma_hello_world.cpp",
+                "line": 18,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@rcpparma_outerproduct#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_outerproduct(const arma::colvec &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/rcpparma_hello_world.cpp",
+                "line": 30,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@rcpparma_innerproduct#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_innerproduct(const arma::colvec &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/rcpparma_hello_world.cpp",
+                "line": 38,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@rcpparma_bothproducts#&1$@N@arma@S@Col>#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rcpparma_bothproducts(const arma::colvec &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/rcpparma_hello_world.cpp",
+                "line": 47,
+                "column": 12
+            }
+        ]
+    },
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+        "file_last_write": 1601671405.0,
+        "definitions": [
+            {
+                "usr": "c:@F@tmp_dot_prod#&$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "tmp_dot_prod(Rcpp::NumericVector &, Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 5,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@complex_dot_prod#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "complex_dot_prod(Rcpp::ComplexVector &, Rcpp::ComplexVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 16,
+                "column": 10
+            },
+            {
+                "usr": "c:@F@complex_rowsum#1$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "complex_rowsum(const Rcpp::ComplexVector)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 29,
+                "column": 10
+            },
+            {
+                "usr": "c:@F@complex_rowsum_matrix#1$@N@Rcpp@S@Matrix>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "complex_rowsum_matrix(const Rcpp::ComplexMatrix)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 40,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@complex_abs#$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "complex_abs(Rcpp::ComplexVector)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 50,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@get_real#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "get_real(Rcpp::ComplexVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 60,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@get_im#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "get_im(Rcpp::ComplexVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 70,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@assign_im#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "assign_im(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 80,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@assign_re#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "assign_re(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 89,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@add_re#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "add_re(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 100,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@sub_re#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "sub_re(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 109,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@mul_re#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mul_re(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 117,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@div_re#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "div_re(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 125,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@div_vector#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "div_vector(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 134,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@div_scalar#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "div_scalar(Rcpp::ComplexVector &, double)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 144,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@mul_scalar#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mul_scalar(Rcpp::ComplexVector &, double)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 153,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@add_im#&$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "add_im(Rcpp::ComplexVector &, const Rcpp::NumericVector &)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 163,
+                "column": 6
+            },
+            {
+                "usr": "c:@F@fftshift_num#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fftshift_num(Rcpp::NumericVector, bool)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 171,
+                "column": 15
+            },
+            {
+                "usr": "c:@F@fftshift_com#$@N@Rcpp@S@Vector>#VI15#@N@Rcpp@ST>1#T@PreserveStorage#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "fftshift_com(Rcpp::ComplexVector, bool)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.cpp",
+                "line": 191,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/utility.h",
+        "file_last_write": 1601669670.0,
+        "definitions": []
+    },
+    {
+        "file": "/home/jakob/Desktop/githubX/MLvdm/src/vmd.cpp",
+        "file_last_write": 1601671339.0,
+        "definitions": [
+            {
+                "usr": "c:@F@vmd#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#d#I#I#d#I#I#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "vmd(Rcpp::NumericVector, double, int, int, double, int, int, bool)",
+                "file": "/home/jakob/Desktop/githubX/MLvdm/src/vmd.cpp",
+                "line": 11,
+                "column": 6
+            }
+        ]
+    }
+]

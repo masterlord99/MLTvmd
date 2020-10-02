@@ -1,0 +1,24 @@
+{
+    "id": "78D8B635",
+    "path": "~/Desktop/githubX/MLvdm/src/fft.cpp",
+    "project_path": "src/fft.cpp",
+    "type": "cpp",
+    "hash": "4018577307",
+    "contents": "",
+    "dirty": false,
+    "created": 1601671409168.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "25,32",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601671585,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601671585957,
+    "read_only": false,
+    "read_only_alternatives": []
+}
